@@ -5,3 +5,7 @@
 
 [学习笔记（二）](https://nbviewer.jupyter.org/github/sevendark/notebook/blob/master/python/base_study_2.ipynb)
 >模块，输入输出，异常
+
+
+[学习笔记（三）](https://nbviewer.jupyter.org/github/sevendark/notebook/blob/master/python/base_study_3.ipynb)
+>类，作用域
